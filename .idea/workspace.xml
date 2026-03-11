@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="74bcc888-b29b-451f-b672-a5a1c3fe7475" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Actividad3-LeyAditiva.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Actividad_limpieza_de_datos.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoDataScience/Agregaciondedatos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoDataScience/Practica de agregacion de datos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Entrada_consola.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graficacion_de_polinomios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graficacion_de_polinomios_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Graficacion_de_polinomios_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medidas de dispersion y forma.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P03_Graficacion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P04_IntroNumpy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P05_matricesPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P06_OpconMatrices_Matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P07_Matrizinversa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P08_Pseudoinversa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P09_PseudoinversaV2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P11_AsociadorLineal_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P12_asociadorlineal_p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProbabilidadyestadisticaProyecto.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pseudoinversa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tarea1-LeyAditivaP2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inversa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iris_completa.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/p10_asociadorLineal_P1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="35Km4as6ojbnHXeI8dPmdEXq54p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Actividad3-LeyAditiva.executor": "Run",
+    "Python.Agregaciondedatos.executor": "Run",
+    "Python.Curso.executor": "Run",
+    "Python.Entrada_consola.executor": "Run",
+    "Python.Graficacion_de_polinomios.executor": "Run",
+    "Python.Graficacion_de_polinomios_2.executor": "Run",
+    "Python.Graficacion_de_polinomios_3.executor": "Run",
+    "Python.Medidas de dispersion y forma.executor": "Run",
+    "Python.P03_Graficacion.executor": "Run",
+    "Python.P06_OpconMatrices_Matrices.executor": "Run",
+    "Python.P07_Matrizinversa.executor": "Run",
+    "Python.P08_Pseudoinversa.executor": "Run",
+    "Python.P09_PseudoinversaV2.executor": "Run",
+    "Python.P11_AsociadorLineal_P2.executor": "Debug",
+    "Python.P12_asociadorlineal_p3.executor": "Debug",
+    "Python.Practica de agregacion de datos.executor": "Run",
+    "Python.ProbabilidadyestadisticaProyecto.executor": "Run",
+    "Python.Pseudoinversa.executor": "Run",
+    "Python.Python file.executor": "Run",
+    "Python.Tarea1-LeyAditivaP2.executor": "Run",
+    "Python.inversa.executor": "Run",
+    "Python.p10_asociadorLineal_P1.executor": "Run",
+    "Python.proyectocalculo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/trave/Desktop/Algebra-Lineal",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\trave\Desktop\Algebra-Lineal" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4e2b1448bda8-9a97661f3031-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74bcc888-b29b-451f-b672-a5a1c3fe7475" name="Changes" comment="" />
+      <created>1762866947625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762866947625</updated>
+      <workItem from="1762866948964" duration="3844000" />
+      <workItem from="1762871296581" duration="1382000" />
+      <workItem from="1762953248105" duration="32000" />
+      <workItem from="1762953325252" duration="3501000" />
+      <workItem from="1763039995054" duration="3477000" />
+      <workItem from="1763173114333" duration="9997000" />
+      <workItem from="1763471109280" duration="11693000" />
+      <workItem from="1763701336015" duration="2098000" />
+      <workItem from="1763793243811" duration="884000" />
+      <workItem from="1764187739200" duration="1340000" />
+      <workItem from="1764191025598" duration="820000" />
+      <workItem from="1764191873796" duration="2568000" />
+      <workItem from="1764712935764" duration="6981000" />
+      <workItem from="1769022850079" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Pseudoinversa.coverage" NAME="Pseudoinversa Coverage Results" MODIFIED="1763701622109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Python_file.coverage" NAME="Python file Coverage Results" MODIFIED="1762867883207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P08_Pseudoinversa.coverage" NAME="P08_Pseudoinversa Coverage Results" MODIFIED="1763558158270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Entrada_consola.coverage" NAME="Entrada_consola Coverage Results" MODIFIED="1762868234667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P12_asociadorlineal_p3.coverage" NAME="P12_asociadorlineal_p3 Coverage Results" MODIFIED="1764724385084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Graficacion_de_polinomios_3.coverage" NAME="Graficacion_de_polinomios_3 Coverage Results" MODIFIED="1763183146824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P07_Matrizinversa.coverage" NAME="P07_Matrizinversa Coverage Results" MODIFIED="1763702832963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P03_Graficacion.coverage" NAME="P03_Graficacion Coverage Results" MODIFIED="1763174216414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Graficacion_de_polinomios_2.coverage" NAME="Graficacion_de_polinomios_2 Coverage Results" MODIFIED="1763182829155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$Graficacion_de_polinomios.coverage" NAME="Graficacion_de_polinomios Coverage Results" MODIFIED="1763182601138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P09_PseudoinversaV2.coverage" NAME="P09_PseudoinversaV2 Coverage Results" MODIFIED="1763558259663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$inversa.coverage" NAME="inversa Coverage Results" MODIFIED="1763702703099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P11_AsociadorLineal_P2.coverage" NAME="P11_AsociadorLineal_P2 Coverage Results" MODIFIED="1763647405454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$proyectocalculo.coverage" NAME="proyectocalculo Coverage Results" MODIFIED="1764192929882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$P06_OpconMatrices_Matrices.coverage" NAME="P06_OpconMatrices_Matrices Coverage Results" MODIFIED="1763558020664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algebra_Lineal$p10_asociadorLineal_P1.coverage" NAME="p10_asociadorLineal_P1 Coverage Results" MODIFIED="1763793310849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
